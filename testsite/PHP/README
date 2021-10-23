@@ -1,0 +1,8 @@
+Deployment Instructions
+
+1. Set up any AMP (Apache/MySQL/PHP) stack like XAMPP.
+2. Place the ‘testsite’ folder in the web directory of the web server. For example, in XAMPP, the web directory is htdocs in the XAMPP directory.
+3. Start the Apache and MySQL services
+4. Import ‘test.sql’ in MYSQL. MySQL can be accessed both through its command line interface and Web GUI. The Web GUI is accessed through the url: localhost/phpmyadmin
+5. The website can be accessed at localhost/testsite
+6. the CSS file gridwork-done.css has stylesheets for the grid display used in the website. This file can be left as it is.

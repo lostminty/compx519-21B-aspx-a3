@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{102D99B3-7C47-47C1-9A12-9FC96CF16F7F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplicationForTest/index.aspx.cs">
+    <Files>
+      <File FileName="../../../../../../../../../../../usr/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="2086" Column="32" />
+      <File FileName="WebApplicationForTest/index.aspx" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/items.aspx" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/Web.config" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/packages.config" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/results.aspx" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/pages.aspx" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/index.aspx.cs" Line="22" Column="71" />
+      <File FileName="WebApplicationForTest/index.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/items.aspx.cs" Line="31" Column="57" />
+      <File FileName="WebApplicationForTest/items.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/results.aspx.cs" Line="21" Column="111" />
+      <File FileName="WebApplicationForTest/results.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationForTest/pages.aspx.cs" Line="21" Column="111" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COMPX519_ASPWebForm" expanded="True">
+            <Node name="COMPX519_Assignment2_ASPWebForm" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="index.aspx" expanded="True">
+                <Node name="index.aspx.cs" selected="True" />
+              </Node>
+              <Node name="items.aspx" expanded="True" />
+              <Node name="pages.aspx" expanded="True" />
+              <Node name="results.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.COMPX519__Assignment2__ASPWebForm PreferredExecutionTarget="ebook-edit" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
